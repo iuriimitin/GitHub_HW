@@ -1,38 +1,38 @@
 
 GIT Homework 1
 
-Для выполнения задания у вас должен быть установлен для Windows - GitBash.
-Создан аккаунь в GitHub 
+Р”Р»СЏ РІС‹РїРѕР»РЅРµРЅРёСЏ Р·Р°РґР°РЅРёСЏ Сѓ РІР°СЃ РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РґР»СЏ Windows - GitBash.
+РЎРѕР·РґР°РЅ Р°РєРєР°СѓРЅС‚ РІ GitHub 
 
-Все шаги сценария выполняйте в терминале GitBush, Terminal, в папке под гитом.
+Р’СЃРµ С€Р°РіРё СЃС†РµРЅР°СЂРёСЏ РІС‹РїРѕР»РЅСЏР№С‚Рµ РІ С‚РµСЂРјРёРЅР°Р»Рµ GitBush, Terminal, РІ РїР°РїРєРµ РїРѕРґ РіРёС‚РѕРј.
 
-Как отправить ДЗ на проверку.
- 1. Создайте текстоовый файл как в первом ДЗ по Terminal.
- 2. Сценарий перенесите в этот файл.
- 3. На против каждого действия - напишите команду в GitBash
+РљР°Рє РѕС‚РїСЂР°РІРёС‚СЊ Р”Р— РЅР° РїСЂРѕРІРµСЂРєСѓ.
+ 1. РЎРѕР·РґР°Р№С‚Рµ С‚РµРєСЃС‚РѕРѕРІС‹Р№ С„Р°Р№Р» РєР°Рє РІ РїРµСЂРІРѕРј Р”Р— РїРѕ Terminal.
+ 2. РЎС†РµРЅР°СЂРёР№ РїРµСЂРµРЅРµСЃРёС‚Рµ РІ СЌС‚РѕС‚ С„Р°Р№Р».
+ 3. РќР° РїСЂРѕС‚РёРІ РєР°Р¶РґРѕРіРѕ РґРµР№СЃС‚РІРёСЏ - РЅР°РїРёС€РёС‚Рµ РєРѕРјР°РЅРґСѓ РІ GitBash
 
-Файл со сценарием и ссылку на свой гит хаб отправляйте менторам на проверку.
+Р¤Р°Р№Р» СЃРѕ СЃС†РµРЅР°СЂРёРµРј Рё СЃСЃС‹Р»РєСѓ РЅР° СЃРІРѕР№ РіРёС‚ С…Р°Р± РѕС‚РїСЂР°РІР»СЏР№С‚Рµ РјРµРЅС‚РѕСЂР°Рј РЅР° РїСЂРѕРІРµСЂРєСѓ.
 
 JSON
- 4. Создать внешний репозиторий c названием JSON.
- 5. Клонировать репозиторий JSON на локальный компьютер.
- 6. Внутри локального JSON создать файл “new.json”.  
+ 4. РЎРѕР·РґР°С‚СЊ РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ c РЅР°Р·РІР°РЅРёРµРј JSON.
+ 5. РљР»РѕРЅРёСЂРѕРІР°С‚СЊ СЂРµРїРѕР·РёС‚РѕСЂРёР№ JSON РЅР° Р»РѕРєР°Р»СЊРЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ.
+ 6. Р’РЅСѓС‚СЂРё Р»РѕРєР°Р»СЊРЅРѕРіРѕ JSON СЃРѕР·РґР°С‚СЊ С„Р°Р№Р» вЂњnew.jsonвЂќ.  
 ---------------
 touch new.json
  
-7. Добавить файл под гит. 
+7. Р”РѕР±Р°РІРёС‚СЊ С„Р°Р№Р» РїРѕРґ РіРёС‚. 
 -------------------
  git add new.json
  
-8. Закоммитить файл.  
+8. Р—Р°РєРѕРјРјРёС‚РёС‚СЊ С„Р°Р№Р».  
 -----------------
 git commit -am "add new.json file"
 
- 9. Отправить файл на внешний GitHub репозиторий.  
+ 9. РћС‚РїСЂР°РІРёС‚СЊ С„Р°Р№Р» РЅР° РІРЅРµС€РЅРёР№ GitHub СЂРµРїРѕР·РёС‚РѕСЂРёР№.  
 ------------
 git push
 
- 10. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.
+ 10. РћС‚СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃРѕРґРµСЂР¶Р°РЅРёРµ С„Р°Р№Р»Р° вЂњnew.jsonвЂќ - РЅР°РїРёСЃР°С‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРµР±Рµ (Р¤РРћ, РІРѕР·СЂР°СЃС‚, РєРѕР»РёС‡РµСЃС‚РІРѕ РґРѕРјР°С€РЅРёС… Р¶РёРІРѕС‚РЅС‹С…, Р±СѓРґСѓС‰Р°СЏ Р¶РµР»Р°РµРјР°СЏ Р·Р°СЂРїР»Р°С‚Р°). Р’СЃС‘ РЅР°РїРёСЃР°С‚СЊ РІ С„РѕСЂРјР°С‚Рµ JSON.
 ---------------
  cat >> new.json
 {
@@ -42,18 +42,18 @@ git push
    "Pets": 1
    }
 
- 11. Отправить изменения на внешний репозиторий.
+ 11. РћС‚РїСЂР°РІРёС‚СЊ РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№.
 ----------------------
 
 git add new.json
 git commit -am "add edited new.json file"
 git push
 
- 12. Создать файл preferences.json 
+ 12. РЎРѕР·РґР°С‚СЊ С„Р°Р№Р» preferences.json 
 ---------------------
  cat > preferences.json
 
- 13. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
+ 13. Р’ С„Р°Р№Р» preferences.json РґРѕР±Р°РІРёС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРІРѕРёС… РїСЂРµРґРїРѕС‡С‚РµРЅРёСЏС… (Р›СЋР±РёРјС‹Р№ С„РёР»СЊРј, Р»СЋР±РёРјС‹Р№ СЃРµСЂРёР°Р», Р»СЋР±РёРјР°СЏ РµРґР°, Р»СЋР±РёРјРѕРµ РІСЂРµРјСЏ РіРѕРґР°, СЃС‚РѕСЂРѕРЅР° РєРѕС‚РѕСЂСѓСЋ С…РѕС‚РµР»Рё Р±С‹ РїРѕСЃРµС‚РёС‚СЊ) РІ С„РѕСЂРјР°С‚Рµ JSON.
 ------------------------
 {
    "Favorite movie":"5th element",
@@ -63,7 +63,7 @@ git push
    "Country":"Argentina"
 }
 
- 14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
+ 14. РЎРѕР·РґР°С‚СЊ С„Р°Р№Р» sklls.json РґРѕР±Р°РІРёС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРєРёР»Р»Р°С… РєРѕС‚РѕСЂС‹Рµ Р±СѓРґСѓС‚ РёР·СѓС‡РµРЅС‹ РЅР° РєСѓСЂСЃРµ РІ С„РѕСЂРјР°С‚Рµ JSON
 ------------------
 cat > skills.json
 {
@@ -82,21 +82,21 @@ cat > skills.json
                    "E2e testing"
                 ]
 }
- 15. Отправить сразу 2 файла на внешний репозиторий.
+ 15. РћС‚РїСЂР°РІРёС‚СЊ СЃСЂР°Р·Сѓ 2 С„Р°Р№Р»Р° РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№.
 ----------------------
 git add preferences.json skills.json
 git commit preferences.json skills.json -m "add preferences.json and skills.json files"
 git push
 
- 16. На веб интерфейсе создать файл bug_report.json. 
+ 16. РќР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ СЃРѕР·РґР°С‚СЊ С„Р°Р№Р» bug_report.json. 
 --------------
 Add file
 
- 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
+ 17. РЎРґРµР»Р°С‚СЊ Commit changes (СЃРѕС…СЂР°РЅРёС‚СЊ) РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ.  
 ------------
 commit new file
 
- 18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+ 18. РќР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ РјРѕРґРёС„РёС†РёСЂРѕРІР°С‚СЊ С„Р°Р№Р» bug_report.json, РґРѕР±Р°РІРёС‚СЊ Р±Р°Рі СЂРµРїРѕСЂС‚ РІ С„РѕСЂРјР°С‚Рµ JSON.
 ----------------
 Edit file
 
@@ -106,38 +106,38 @@ Edit file
 
 Commit changes
 
- 19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
- 20. Синхронизировать внешний и локальный репозиторий JSON
+ 19. РЎРґРµР»Р°С‚СЊ Commit changes (СЃРѕС…СЂР°РЅРёС‚СЊ) РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ.
+ 20. РЎРёРЅС…СЂРѕРЅРёР·РёСЂРѕРІР°С‚СЊ РІРЅРµС€РЅРёР№ Рё Р»РѕРєР°Р»СЊРЅС‹Р№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ JSON
 -------------------
-В папке JSON >
+Р’ РїР°РїРєРµ JSON >
 
 git pull https://github.com/iuriimitin/JSON.git
 
 
 XML
- 21. Создать внешний репозиторий c названием XML.
- 22. Клонировать репозиторий XML на локальный компьютер.
+ 21. РЎРѕР·РґР°С‚СЊ РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ c РЅР°Р·РІР°РЅРёРµРј XML.
+ 22. РљР»РѕРЅРёСЂРѕРІР°С‚СЊ СЂРµРїРѕР·РёС‚РѕСЂРёР№ XML РЅР° Р»РѕРєР°Р»СЊРЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ.
 ---------------------
 git clone https://github.com/iuriimitin/XML.git
 
- 23. Внутри локального XML создать файл “new.xml”.
+ 23. Р’РЅСѓС‚СЂРё Р»РѕРєР°Р»СЊРЅРѕРіРѕ XML СЃРѕР·РґР°С‚СЊ С„Р°Р№Р» вЂњnew.xmlвЂќ.
 ---------------------
 cd XML
 touch new.xml
 
- 24. Добавить файл под гит.  
+ 24. Р”РѕР±Р°РІРёС‚СЊ С„Р°Р№Р» РїРѕРґ РіРёС‚.  
 ---------------------
 git add new.xml
 
- 25. Закоммитить файл.  
+ 25. Р—Р°РєРѕРјРјРёС‚РёС‚СЊ С„Р°Р№Р».  
 -----------------
 git commit new.xml -m "add new.xml file"
 
- 26. Отправить файл на внешний GitHub репозиторий.   
+ 26. РћС‚РїСЂР°РІРёС‚СЊ С„Р°Р№Р» РЅР° РІРЅРµС€РЅРёР№ GitHub СЂРµРїРѕР·РёС‚РѕСЂРёР№.   
 ------------------
 git push
 
- 27. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML.
+ 27. РћС‚СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃРѕРґРµСЂР¶Р°РЅРёРµ С„Р°Р№Р»Р° вЂњnew.xmlвЂќ - РЅР°РїРёСЃР°С‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРµР±Рµ (Р¤РРћ, РІРѕР·СЂР°СЃС‚, РєРѕР»РёС‡РµСЃС‚РІРѕ РґРѕРјР°С€РЅРёС… Р¶РёРІРѕС‚РЅС‹С…, Р±СѓРґСѓС‰Р°СЏ Р¶РµР»Р°РµРјР°СЏ Р·Р°СЂРїР»Р°С‚Р°). Р’СЃС‘ РЅР°РїРёСЃР°С‚СЊ РІ С„РѕСЂРјР°С‚Рµ XML.
 ---------------------
 cat >> new.xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -150,15 +150,15 @@ cat >> new.xml
 </root>
 
 
- 28. Отправить изменения на внешний репозиторий.
+ 28. РћС‚РїСЂР°РІРёС‚СЊ РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№.
 -------------------
 git add new.xml
 git commit new.xml -m "add new.xml edited file"
 git push
 
 
- 29. Создать файл preferences.xml
- 30. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.
+ 29. РЎРѕР·РґР°С‚СЊ С„Р°Р№Р» preferences.xml
+ 30. Р’ С„Р°Р№Р» preferences.xml РґРѕР±Р°РІРёС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРІРѕРёС… РїСЂРµРґРїРѕС‡С‚РµРЅРёСЏС… (Р›СЋР±РёРјС‹Р№ С„РёР»СЊРј, Р»СЋР±РёРјС‹Р№ СЃРµСЂРёР°Р», Р»СЋР±РёРјР°СЏ РµРґР°, Р»СЋР±РёРјРѕРµ РІСЂРµРјСЏ РіРѕРґР°, СЃС‚РѕСЂРѕРЅР° РєРѕС‚РѕСЂСѓСЋ С…РѕС‚РµР»Рё Р±С‹ РїРѕСЃРµС‚РёС‚СЊ) РІ С„РѕСЂРјР°С‚Рµ XML.
 ----------------------
 cat > preferences.xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -172,7 +172,7 @@ cat > preferences.xml
 </root>
 
 
- 31. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
+ 31. РЎРѕР·РґР°С‚СЊ С„Р°Р№Р» sklls.xml РґРѕР±Р°РІРёС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРєРёР»Р»Р°С… РєРѕС‚РѕСЂС‹Рµ Р±СѓРґСѓС‚ РёР·СѓС‡РµРЅС‹ РЅР° РєСѓСЂСЃРµ РІ С„РѕСЂРјР°С‚Рµ XML
 -------------------------
 cat > skills.xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -184,31 +184,31 @@ cat > skills.xml
 </root>
 
 
- 32. Сделать коммит в одну строку. 
+ 32. РЎРґРµР»Р°С‚СЊ РєРѕРјРјРёС‚ РІ РѕРґРЅСѓ СЃС‚СЂРѕРєСѓ. 
 ----------------------
 git add preferences.xml skills.xml & git commit preferences.xml skills.xml -m "add new files preferences.xml and skills.xml"
 
- 33. Отправить сразу 2 файла на внешний репозиторий.
+ 33. РћС‚РїСЂР°РІРёС‚СЊ СЃСЂР°Р·Сѓ 2 С„Р°Р№Р»Р° РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№.
 ----------------------
 git push
 
- 34. На веб интерфейсе создать файл bug_report.xml. 
+ 34. РќР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ СЃРѕР·РґР°С‚СЊ С„Р°Р№Р» bug_report.xml. 
 -------------------------
 Create bug_report.xml
 
- 35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+ 35. РЎРґРµР»Р°С‚СЊ Commit changes (СЃРѕС…СЂР°РЅРёС‚СЊ) РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ.
 ------------------
 Commit new file
 
 
- 36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
+ 36. РќР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ РјРѕРґРёС„РёС†РёСЂРѕРІР°С‚СЊ С„Р°Р№Р» bug_report.xml, РґРѕР±Р°РІРёС‚СЊ Р±Р°Рі СЂРµРїРѕСЂС‚ РІ С„РѕСЂРјР°С‚Рµ XML.
 <!--  
 RSS generated by JIRA (1001.0.0-SNAPSHOT#100213-sha1:d1b903b4afe876f5ab06eea7ed66172de405861a) at Fri Dec 23 16:59:35 UTC 2022
 
 It is possible to restrict the fields that are returned in this document by specifying the 'field' parameter in your request.
 For example, to request only the issue key and summary add field=key&field=summary to the URL of your request.
  -->
-<rss version="0.92">
+<rssВ version="0.92">
 <channel>
 <title>Jira</title>
 <link>https://iuriimitin.atlassian.net</link>
@@ -222,43 +222,43 @@ For example, to request only the issue key and summary add field=key&field=summa
 <item>
 <title>[TMP1-9] Search Page. Notification about an empty search request in Russian</title>
 <link>https://iuriimitin.atlassian.net/browse/TMP1-9</link>
-<project id="10002" key="TMP1">Test Mentol Pro 1</project>
+<projectВ id="10002"В key="TMP1">Test Mentol Pro 1</project>
 <description><p><b>SRT:</b></p> <ul> <li>Open the <a href="http://mentol.pro/en/" class="external-link" rel="nofollow noreferrer">http://mentol.pro/en/</a></li> <li>Click to loupe-button</li> <li>Navigate to Search Field</li> </ul> <p><b>Result:</b> Notification about an empty search request in Russian</p> <p><b>Expected result:</b> Notification about an empty search request in English</p></description>
 <environment><p>Windows 10 x64</p> <p>Chrome V 103</p></environment>
-<key id="10009">TMP1-9</key>
+<keyВ id="10009">TMP1-9</key>
 <summary>Search Page. Notification about an empty search request in Russian</summary>
-<type id="10008" iconUrl="https://iuriimitin.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium">Bug</type>
-<priority id="5" iconUrl="https://iuriimitin.atlassian.net/images/icons/priorities/lowest.svg">Lowest</priority>
-<status id="10003" iconUrl="https://iuriimitin.atlassian.net/" description="">To Do</status>
-<statusCategory id="2" key="new" colorName="blue-gray"/>
-<resolution id="-1">Unresolved</resolution>
-<assignee accountid="-1">Unassigned</assignee>
-<reporter accountid="6265abdd494f17007054c101">Iurii Mitin</reporter>
-<labels> </labels>
+<typeВ id="10008"В iconUrl="https://iuriimitin.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium">Bug</type>
+<priorityВ id="5"В iconUrl="https://iuriimitin.atlassian.net/images/icons/priorities/lowest.svg">Lowest</priority>
+<statusВ id="10003"В iconUrl="https://iuriimitin.atlassian.net/"В description="">To Do</status>
+<statusCategoryВ id="2"В key="new"В colorName="blue-gray"/>
+<resolutionВ id="-1">Unresolved</resolution>
+<assigneeВ accountid="-1">Unassigned</assignee>
+<reporterВ accountid="6265abdd494f17007054c101">Iurii Mitin</reporter>
+<labels>В </labels>
 <created>Wed, 27 Jul 2022 19:28:35 +0300</created>
 <updated>Wed, 27 Jul 2022 19:28:35 +0300</updated>
 <due/>
 <votes>0</votes>
 <watches>1</watches>
 <attachments>
-<attachment id="10012" name="Search.mpg" size="4732928" author="ug:0b4ddfeb-e414-4eb2-a86d-24197177294e" created="Wed, 27 Jul 2022 19:28:07 +0300"/>
-<attachment id="10011" name="Search2.png" size="230494" author="ug:0b4ddfeb-e414-4eb2-a86d-24197177294e" created="Wed, 27 Jul 2022 19:28:31 +0300"/>
+<attachmentВ id="10012"В name="Search.mpg"В size="4732928"В author="ug:0b4ddfeb-e414-4eb2-a86d-24197177294e"В created="Wed, 27 Jul 2022 19:28:07 +0300"/>
+<attachmentВ id="10011"В name="Search2.png"В size="230494"В author="ug:0b4ddfeb-e414-4eb2-a86d-24197177294e"В created="Wed, 27 Jul 2022 19:28:31 +0300"/>
 </attachments>
-<subtasks> </subtasks>
+<subtasks>В </subtasks>
 <customfields>
-<customfield id="customfield_10000" key="com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf">
+<customfieldВ id="customfield_10000"В key="com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf">
 <customfieldname>Development</customfieldname>
-<customfieldvalues> </customfieldvalues>
+<customfieldvalues>В </customfieldvalues>
 </customfield>
-<customfield id="customfield_10019" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldВ id="customfield_10019"В key="com.pyxis.greenhopper.jira:gh-lexo-rank">
 <customfieldname>Rank</customfieldname>
 <customfieldvalues>
 <customfieldvalue>0|i0001z:</customfieldvalue>
 </customfieldvalues>
 </customfield>
-<customfield id="customfield_10020" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldВ id="customfield_10020"В key="com.pyxis.greenhopper.jira:gh-sprint">
 <customfieldname>Sprint</customfieldname>
-<customfieldvalues> </customfieldvalues>
+<customfieldvalues>В </customfieldvalues>
 </customfield>
 </customfields>
 </item>
@@ -266,35 +266,35 @@ For example, to request only the issue key and summary add field=key&field=summa
 </rss>
 
 
- 37. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
+ 37. РЎРґРµР»Р°С‚СЊ Commit changes (СЃРѕС…СЂР°РЅРёС‚СЊ) РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ. 
 ------------------
 Commit changes
 
- 38. Синхронизировать внешний и локальный репозиторий XML
+ 38. РЎРёРЅС…СЂРѕРЅРёР·РёСЂРѕРІР°С‚СЊ РІРЅРµС€РЅРёР№ Рё Р»РѕРєР°Р»СЊРЅС‹Р№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ XML
 
 git pull https://github.com/iuriimitin/XML.git
 
 
 TXT
- 1. Создать внешний репозиторий c названием TXT.
- 2. Клонировать репозиторий TXT на локальный компьютер.
+ 1. РЎРѕР·РґР°С‚СЊ РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ c РЅР°Р·РІР°РЅРёРµРј TXT.
+ 2. РљР»РѕРЅРёСЂРѕРІР°С‚СЊ СЂРµРїРѕР·РёС‚РѕСЂРёР№ TXT РЅР° Р»РѕРєР°Р»СЊРЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ.
 -------------------------
 git clone https://github.com/iuriimitin/TXT.git
 
- 3. Внутри локального TXT создать файл “new.txt”. 
+ 3. Р’РЅСѓС‚СЂРё Р»РѕРєР°Р»СЊРЅРѕРіРѕ TXT СЃРѕР·РґР°С‚СЊ С„Р°Р№Р» вЂњnew.txtвЂќ. 
 -----------------------
  touch TXT/new.txt
 
- 4. Добавить файл под гит.  cd TXT ; git add new.txt
- 5. Закоммитить файл.  
+ 4. Р”РѕР±Р°РІРёС‚СЊ С„Р°Р№Р» РїРѕРґ РіРёС‚.  cd TXT ; git add new.txt
+ 5. Р—Р°РєРѕРјРјРёС‚РёС‚СЊ С„Р°Р№Р».  
 ------------------
 git commit new.txt -m "add new.txt file"
 
- 6. Отправить файл на внешний GitHub репозиторий.  
+ 6. РћС‚РїСЂР°РІРёС‚СЊ С„Р°Р№Р» РЅР° РІРЅРµС€РЅРёР№ GitHub СЂРµРїРѕР·РёС‚РѕСЂРёР№.  
 --------------------
 git push
 
- 7. Отредактировать содержание файла “new.txt” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT.
+ 7. РћС‚СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃРѕРґРµСЂР¶Р°РЅРёРµ С„Р°Р№Р»Р° вЂњnew.txtвЂќ - РЅР°РїРёСЃР°С‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРµР±Рµ (Р¤РРћ, РІРѕР·СЂР°СЃС‚, РєРѕР»РёС‡РµСЃС‚РІРѕ РґРѕРјР°С€РЅРёС… Р¶РёРІРѕС‚РЅС‹С…, Р±СѓРґСѓС‰Р°СЏ Р¶РµР»Р°РµРјР°СЏ Р·Р°СЂРїР»Р°С‚Р°). Р’СЃС‘ РЅР°РїРёСЃР°С‚СЊ РІ С„РѕСЂРјР°С‚Рµ TXT.
 -------------------
 cat >> new.txt
 
@@ -304,17 +304,17 @@ Pets: 1
 Salary: 666666
 
 
- 8. Отправить изменения на внешний репозиторий.
+ 8. РћС‚РїСЂР°РІРёС‚СЊ РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№.
 -------------------------
 git add new.txt
 git commit new.txt -m "add edited new,txt file"
 git push
 
- 9. Создать файл preferences.txt  
+ 9. РЎРѕР·РґР°С‚СЊ С„Р°Р№Р» preferences.txt  
 ------------------------
  touch preferences.txt
 
- 10. В файл preferences.txt” добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.
+ 10. Р’ С„Р°Р№Р» preferences.txtвЂќ РґРѕР±Р°РІРёС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРІРѕРёС… РїСЂРµРґРїРѕС‡С‚РµРЅРёСЏС… (Р›СЋР±РёРјС‹Р№ С„РёР»СЊРј, Р»СЋР±РёРјС‹Р№ СЃРµСЂРёР°Р», Р»СЋР±РёРјР°СЏ РµРґР°, Р»СЋР±РёРјРѕРµ РІСЂРµРјСЏ РіРѕРґР°, СЃС‚РѕСЂРѕРЅР° РєРѕС‚РѕСЂСѓСЋ С…РѕС‚РµР»Рё Р±С‹ РїРѕСЃРµС‚РёС‚СЊ) РІ С„РѕСЂРјР°С‚Рµ TXT.
 -------------------------
 cat >> preferences.txt
 Movie: Top Gun;
@@ -323,7 +323,7 @@ Food: taco;
 Season: autumn;
 Country: Argentina
 
- 11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
+ 11. РЎРѕР·РґР°С‚СЊ С„Р°Р№Р» sklls.txt РґРѕР±Р°РІРёС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРєРёР»Р»Р°С… РєРѕС‚РѕСЂС‹Рµ Р±СѓРґСѓС‚ РёР·СѓС‡РµРЅС‹ РЅР° РєСѓСЂСЃРµ РІ С„РѕСЂРјР°С‚Рµ TXT
 -----------------------------
 cat > skills.txt
 Testing Documentation: Check Lists;
@@ -340,48 +340,48 @@ Other:
              Scrum;
              Python
 
- 12. Сделать коммит в одну строку. 
+ 12. РЎРґРµР»Р°С‚СЊ РєРѕРјРјРёС‚ РІ РѕРґРЅСѓ СЃС‚СЂРѕРєСѓ. 
 --------------------------------------
 git add preferences.txt skills.txt; git commit preferences.txt skills.txt -m "add preferences.txt skills.txt files"
 
- 13. Отправить сразу 2 файла на внешний репозиторий. 
+ 13. РћС‚РїСЂР°РІРёС‚СЊ СЃСЂР°Р·Сѓ 2 С„Р°Р№Р»Р° РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№. 
 ---------------------------------
 git push
 
- 14. На веб интерфейсе создать файл bug_report.txt.
+ 14. РќР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ СЃРѕР·РґР°С‚СЊ С„Р°Р№Р» bug_report.txt.
 ------------------------------------
 
 Add file > Create new file
 bug_report.txt
  
-15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+15. РЎРґРµР»Р°С‚СЊ Commit changes (СЃРѕС…СЂР°РЅРёС‚СЊ) РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ.
 ------------------------------------
 Commit new file
 
- 16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.
+ 16. РќР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ РјРѕРґРёС„РёС†РёСЂРѕРІР°С‚СЊ С„Р°Р№Р» bug_report.txt, РґРѕР±Р°РІРёС‚СЊ Р±Р°Рі СЂРµРїРѕСЂС‚ РІ С„РѕСЂРјР°С‚Рµ TXT.
 -------------------------------------
 Edit/
 
 ID  BR-1
 Severity         Trivial
 Priority         Low
-Environment      Windows 10 Chrome 87.0.4280.88 (64 бит)
-Precondition     Открыт сайт capitan.com 
-Title            Отсутствует искомая статья в результатах поиска по сайту в разделе Articles при точном задании в строке поиска ее названия
+Environment      Windows 10 Chrome 87.0.4280.88 (64 Р±РёС‚)
+Precondition     РћС‚РєСЂС‹С‚ СЃР°Р№С‚ capitan.com 
+Title            РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚ РёСЃРєРѕРјР°СЏ СЃС‚Р°С‚СЊСЏ РІ СЂРµР·СѓР»СЊС‚Р°С‚Р°С… РїРѕРёСЃРєР° РїРѕ СЃР°Р№С‚Сѓ РІ СЂР°Р·РґРµР»Рµ Articles РїСЂРё С‚РѕС‡РЅРѕРј Р·Р°РґР°РЅРёРё РІ СЃС‚СЂРѕРєРµ РїРѕРёСЃРєР° РµРµ РЅР°Р·РІР°РЅРёСЏ
 Link             link
-STR              1. Установить курсор в строку поиска 
-                 2. Ввести "Haven-sent gains for the euro"
-                 3. Перейти на вкладку Articles
-Actual Result    Статья с искомым названием отсутсвует в поисковой выдаче  
-Expected Result  Статья с искомым названием находится на одной из страниц
+STR              1. РЈСЃС‚Р°РЅРѕРІРёС‚СЊ РєСѓСЂСЃРѕСЂ РІ СЃС‚СЂРѕРєСѓ РїРѕРёСЃРєР° 
+                 2. Р’РІРµСЃС‚Рё "Haven-sent gains for the euro"
+                 3. РџРµСЂРµР№С‚Рё РЅР° РІРєР»Р°РґРєСѓ Articles
+Actual Result    РЎС‚Р°С‚СЊСЏ СЃ РёСЃРєРѕРјС‹Рј РЅР°Р·РІР°РЅРёРµРј РѕС‚СЃСѓС‚СЃРІСѓРµС‚ РІ РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рµ  
+Expected Result  РЎС‚Р°С‚СЊСЏ СЃ РёСЃРєРѕРјС‹Рј РЅР°Р·РІР°РЅРёРµРј РЅР°С…РѕРґРёС‚СЃСЏ РЅР° РѕРґРЅРѕР№ РёР· СЃС‚СЂР°РЅРёС†
 
 
 
 
- 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+ 17. РЎРґРµР»Р°С‚СЊ Commit changes (СЃРѕС…СЂР°РЅРёС‚СЊ) РёР·РјРµРЅРµРЅРёСЏ РЅР° РІРµР± РёРЅС‚РµСЂС„РµР№СЃРµ.
 ----------------------------------
 Commit changes
 
- 18. Синхронизировать внешний и локальный репозиторий TXT
+ 18. РЎРёРЅС…СЂРѕРЅРёР·РёСЂРѕРІР°С‚СЊ РІРЅРµС€РЅРёР№ Рё Р»РѕРєР°Р»СЊРЅС‹Р№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ TXT
 -------------------------------------
 git pull https://github.com/iuriimitin/TXT.git
